@@ -1,0 +1,28 @@
+{
+  "name": "kaarpaal",
+  "version": "0.0.0",
+  "description": "find work fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaarpaal/kaarpaal.git"
+  },
+  "keywords": [
+    "microwork",
+    "work",
+    "services"
+  ],
+  "author": "The Kaarpaal Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaarpaal/kaarpaal/issues"
+  },
+  "homepage": "https://github.com/kaarpaal/kaarpaal",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
