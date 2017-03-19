@@ -12,12 +12,12 @@ export default () =>
 			<div className="container">
 				<div className="row">
 					<div className="one-half column">
-						<h4 className="hero-heading">Stop coding non-responsive sites. Let users view sites from anywhere.</h4>
-						<a className="button button-primary" href="http://getskeleton.com">Try Skeleton</a>
+						<h4 className="hero-heading">Start working. So you can grow.</h4>
+						<a className="button button-primary" href="#">Try Jawana</a>
 					</div>
 					<div className="one-half column phones">
-						<img className="phone" src="images/iphone.png" />
-						<img className="phone" src="images/iphone.png" />
+						<img className="phone" src="static/images/jawana.gif" />
+
 					</div>
 				</div>
 			</div>
@@ -27,19 +27,19 @@ export default () =>
 			<div className="container">
 				<div className="row">
 					<div className="one-third column value">
-						<h2 className="value-multiplier">67%</h2>
-						<h5 className="value-heading">Purchase Increase</h5>
-						<p className="value-description">Percentage of users more likely to purchase on mobile friendly site.</p>
+						<h2 className="value-multiplier">Private</h2>
+						<h5 className="value-heading">Manage your profile</h5>
+						<p className="value-description">Control what others see or make your profile completely private.</p>
 					</div>
 					<div className="one-third column value">
-						<h2 className="value-multiplier">90%</h2>
-						<h5 className="value-heading">Multi-device Users</h5>
-						<p className="value-description">Most of the world accesses the internet on multiple devices.</p>
+						<h2 className="value-multiplier">Fast</h2>
+						<h5 className="value-heading">Get started working</h5>
+						<p className="value-description">Employers respond in real time so you can get to work quickly.</p>
 					</div>
 					<div className="one-third column value">
-						<h2 className="value-multiplier">66%</h2>
-						<h5 className="value-heading">Sad Users</h5>
-						<p className="value-description">Percentage of users that are frustrated with page load times.</p>
+						<h2 className="value-multiplier">Develop</h2>
+						<h5 className="value-heading">Grow your skills</h5>
+						<p className="value-description">Need more experience in a field? Perfect.</p>
 					</div>
 				</div>
 			</div>
@@ -47,23 +47,17 @@ export default () =>
 
 		<div className="section get-help">
 			<div className="container">
-				<h3 className="section-heading">Need help getting started?</h3>
-				<p className="section-description">Skeleton is an amazingly easy place to start with responsive development. If you want to learn more, just visit the documentation!</p>
-				<a className="button button-primary" href="http://getskeleton.com">View Skeleton Docs</a>
+				<h3 className="section-heading">Want to be one of our first users?</h3>
+				<p className="section-description">We are looking for energized people who are motivated and can manage themselves.</p>
+				<a className="button button-primary" href="#">Contact Us</a>
 			</div>
 		</div>
 
 		<div className="section categories">
 			<div className="container">
-				<h3 className="section-heading">Responsive Images</h3>
-				<p className="section-description">Skeleton images sit easily in grid with .u-max-full-width class. I suggest exploring solution to serving different images based on device size.</p>
+				<h3 className="section-heading"></h3>
+				<p className="section-description"></p>
 				<div className="row">
-					<div className="one-half column category">
-						<img className="u-max-full-width" src="images/placeholder.png" />
-					</div>
-					<div className="one-half column category">
-						<img className="u-max-full-width" src="images/placeholder.png" />
-					</div>
 				</div>
 			</div>
 		</div>
